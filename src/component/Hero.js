@@ -10,6 +10,7 @@ const Hero = (props) => {
                 <h1>{props.title}</h1>
                 <p>{props.text}</p>
                 <a href='/'>Travel </a>
+                <h2>new era</h2>
             </div>
         </div>
     );
